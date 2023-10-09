@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+}
+#tabela {
+   background-color: #BBDEFB; 
+   width: 250px;
+   border: solid 1px;
+}
+
+.preco {
+    font-weight: 700;
+}
+
+.preco.total {
+    text-decoration: underline;
+    font-size: large;
+}
